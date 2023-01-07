@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Ecommerce.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Ecommerce.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.Domain.Entity/Ecommerce.Domain.Entity.csproj",
+      "msbuildProject": "../Ecommerce.Domain.Entity/Ecommerce.Domain.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Ecommerce.Domain.Entity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Infraestructure.Interface\\Ecommerce.Infraestructure.Interface.csproj",
+      "projectName": "Ecommerce.Infraestructure.Interface",
+      "projectPath": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Infraestructure.Interface\\Ecommerce.Infraestructure.Interface.csproj",
+      "packagesPath": "C:\\Users\\lator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Infraestructure.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\lator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Domain.Entity\\Ecommerce.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Domain.Entity\\Ecommerce.Domain.Entity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

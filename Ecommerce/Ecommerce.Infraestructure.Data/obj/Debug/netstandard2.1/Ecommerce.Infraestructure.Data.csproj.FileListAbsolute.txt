@@ -1,0 +1,13 @@
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.deps.json
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.pdb
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Ecommerce.Transversal.Common.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Ecommerce.Transversal.Common.pdb
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.csproj.AssemblyReference.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.AssemblyInfo.cs
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.csproj.CopyComplete
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.pdb

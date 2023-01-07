@@ -1,0 +1,10 @@
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Ecommerce.Domain.Entity.deps.json
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Ecommerce.Domain.Entity.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Ecommerce.Domain.Entity.pdb
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Ecommerce.Domain.Entity.csproj.AssemblyReference.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Ecommerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Ecommerce.Domain.Entity.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Ecommerce.Domain.Entity.pdb

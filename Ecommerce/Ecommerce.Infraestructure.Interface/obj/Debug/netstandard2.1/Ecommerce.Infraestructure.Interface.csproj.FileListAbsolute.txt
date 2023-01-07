@@ -1,0 +1,13 @@
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.deps.json
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.pdb
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Ecommerce.Domain.Entity.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Ecommerce.Domain.Entity.pdb
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.csproj.AssemblyReference.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.AssemblyInfoInputs.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.AssemblyInfo.cs
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.csproj.CopyComplete
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.pdb

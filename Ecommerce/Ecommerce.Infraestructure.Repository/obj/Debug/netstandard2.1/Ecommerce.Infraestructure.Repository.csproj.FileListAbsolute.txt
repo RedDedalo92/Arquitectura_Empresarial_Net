@@ -1,0 +1,17 @@
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.deps.json
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.pdb
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.1\Ecommerce.Domain.Entity.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.1\Ecommerce.Transversal.Common.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.1\Ecommerce.Domain.Entity.pdb
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.pdb
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.1\Ecommerce.Transversal.Common.pdb
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.csproj.AssemblyReference.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.AssemblyInfoInputs.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.AssemblyInfo.cs
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.csproj.CopyComplete
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.dll
+C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Repository.pdb
