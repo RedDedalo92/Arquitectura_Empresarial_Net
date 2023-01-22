@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Domain.Entity\\Ecommerce.Domain.Entity.csproj",
+      "projectUniqueName": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce.Domain.Entity\\Ecommerce.Domain.Entity.csproj",
       "projectName": "Ecommerce.Domain.Entity",
-      "projectPath": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Domain.Entity\\Ecommerce.Domain.Entity.csproj",
+      "projectPath": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce.Domain.Entity\\Ecommerce.Domain.Entity.csproj",
       "packagesPath": "C:\\Users\\lator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Domain.Entity\\obj\\",
+      "outputPath": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce.Domain.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lator\\AppData\\Roaming\\NuGet\\NuGet.Config",

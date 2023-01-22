@@ -8,3 +8,13 @@ C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce\obj\Debug\net
 C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce\obj\Debug\netstandard2.1\Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
 C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce\obj\Debug\netstandard2.1\Ecommerce.Transversal.Common.dll
 C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce\obj\Debug\netstandard2.1\Ecommerce.Transversal.Common.pdb
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce\bin\Debug\netstandard2.1\Ecommerce.Transversal.Common.deps.json
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce\bin\Debug\netstandard2.1\Ecommerce.Transversal.Common.dll
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce\bin\Debug\netstandard2.1\Ecommerce.Transversal.Common.pdb
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce\obj\Debug\netstandard2.1\Ecommerce.Transversal.Common.csproj.AssemblyReference.cache
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce\obj\Debug\netstandard2.1\Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce\obj\Debug\netstandard2.1\Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce\obj\Debug\netstandard2.1\Ecommerce.Transversal.Common.AssemblyInfo.cs
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce\obj\Debug\netstandard2.1\Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce\obj\Debug\netstandard2.1\Ecommerce.Transversal.Common.dll
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce\obj\Debug\netstandard2.1\Ecommerce.Transversal.Common.pdb

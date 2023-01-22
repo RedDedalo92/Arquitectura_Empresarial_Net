@@ -11,3 +11,16 @@ C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructu
 C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.csproj.CopyComplete
 C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.dll
 C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.pdb
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.deps.json
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.dll
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.pdb
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Ecommerce.Domain.Entity.dll
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Ecommerce.Domain.Entity.pdb
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.csproj.AssemblyReference.cache
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.AssemblyInfoInputs.cache
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.AssemblyInfo.cs
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.csproj.CoreCompileInputs.cache
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.csproj.CopyComplete
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.dll
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Interface.pdb

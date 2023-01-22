@@ -11,3 +11,16 @@ C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructu
 C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.csproj.CopyComplete
 C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.dll
 C:\Users\lator\Documents\Desarrollo\Desarrollo\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.pdb
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.deps.json
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.dll
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.pdb
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Ecommerce.Transversal.Common.dll
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Ecommerce.Transversal.Common.pdb
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.csproj.AssemblyReference.cache
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.AssemblyInfoInputs.cache
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.AssemblyInfo.cs
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.csproj.CoreCompileInputs.cache
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.csproj.CopyComplete
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.dll
+D:\Dev\Arquitectura_Empresarial_Net\Ecommerce\Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Ecommerce.Infraestructure.Data.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce\\Ecommerce.Transversal.Common.csproj": {}
+    "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce\\Ecommerce.Transversal.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce\\Ecommerce.Transversal.Common.csproj": {
+    "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce\\Ecommerce.Transversal.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce\\Ecommerce.Transversal.Common.csproj",
+        "projectUniqueName": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce\\Ecommerce.Transversal.Common.csproj",
         "projectName": "Ecommerce.Transversal.Common",
-        "projectPath": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce\\Ecommerce.Transversal.Common.csproj",
+        "projectPath": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce\\Ecommerce.Transversal.Common.csproj",
         "packagesPath": "C:\\Users\\lator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce\\obj\\",
+        "outputPath": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lator\\AppData\\Roaming\\NuGet\\NuGet.Config",

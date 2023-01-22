@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Infraestructure.Interface\\Ecommerce.Infraestructure.Interface.csproj",
+      "projectUniqueName": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce.Infraestructure.Interface\\Ecommerce.Infraestructure.Interface.csproj",
       "projectName": "Ecommerce.Infraestructure.Interface",
-      "projectPath": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Infraestructure.Interface\\Ecommerce.Infraestructure.Interface.csproj",
+      "projectPath": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce.Infraestructure.Interface\\Ecommerce.Infraestructure.Interface.csproj",
       "packagesPath": "C:\\Users\\lator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Infraestructure.Interface\\obj\\",
+      "outputPath": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce.Infraestructure.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Domain.Entity\\Ecommerce.Domain.Entity.csproj": {
-              "projectPath": "C:\\Users\\lator\\Documents\\Desarrollo\\Desarrollo\\Ecommerce\\Ecommerce.Domain.Entity\\Ecommerce.Domain.Entity.csproj"
+            "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce.Domain.Entity\\Ecommerce.Domain.Entity.csproj": {
+              "projectPath": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce.Domain.Entity\\Ecommerce.Domain.Entity.csproj"
             }
           }
         }
