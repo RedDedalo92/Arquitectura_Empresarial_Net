@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HojZ2NtaCm1I0uwjWFzVeBmELDBRJfxxwGMpaDp69XbRJNFLdod5FRUeWN5RY8dn8Vzzd8tEPNNuRtHgrE9bTA==",
+  "dgSpecHash": "raHP6E2K/SPlxSySZEwOKq8S7wE+YJAlfqiVp2EWX0LJfdAuk3AzhedEAiqfIcQvLU0nY4UpZujOWiMm2C5nDg==",
   "success": true,
   "projectFilePath": "D:\\Dev\\Arquitectura_Empresarial_Net\\Ecommerce\\Ecommerce.Infraestructure.Repository\\Ecommerce.Infraestructure.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lator\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\lator\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\lator\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
   ],
   "logs": []

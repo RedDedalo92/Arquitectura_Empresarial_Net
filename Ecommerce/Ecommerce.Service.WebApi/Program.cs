@@ -5,6 +5,7 @@ using Ecommerce.Service.WebApi.Modules.Feature;
 using Ecommerce.Service.WebApi.Modules.Injection;
 using Ecommerce.Service.WebApi.Modules.Mapper;
 using Ecommerce.Service.WebApi.Modules.Swagger;
+using Ecommerce.Service.WebApi.Modules.Validator;
 
 var myPolicy = "policyEcommerce";
 var builder = WebApplication.CreateBuilder(args);
@@ -26,6 +27,7 @@ builder.Services.AddAuthenticacion(builder.Configuration);
 builder.Services.AddFeature(builder.Configuration);
 builder.Services.AddInjection(builder.Configuration);
 builder.Services.AddMapper();
+builder.Services.AddValidator();
 //builder.Services.AddSwaggerGen();
 
 var app = builder.Build();

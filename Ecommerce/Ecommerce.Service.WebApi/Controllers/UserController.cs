@@ -42,11 +42,11 @@ namespace Ecommerce.Service.WebApi.Controllers
                 }
                 else
                 {
-                    return NotFound(respose.Message);
+                    return NotFound(respose);
                 }
             }
 
-            return BadRequest(respose.Message);
+            return BadRequest(respose);
         }
 
         private string BuildToken(Response<UserDTO> userDTO)

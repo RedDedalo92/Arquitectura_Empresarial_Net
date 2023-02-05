@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Ecommerce.Application.DTO;
 using Ecommerce.Application.Interface;
-using Ecommerce.Domain.Entity;
+using Ecommerce.Application.Validator;
 using Ecommerce.Domain.Interface;
 using Ecommerce.Transversal.Common;
 using System;
@@ -12,19 +12,24 @@ namespace Ecommerce.Application.Main
     {
         private readonly IUserDomain _userDomain;
         private readonly IMapper _mapper;
+        private readonly UserDTOValidator _usersDTOValidator;
 
-        public UserApplication(IUserDomain userDomain, IMapper mapper)
+        public UserApplication(IUserDomain userDomain, IMapper mapper, UserDTOValidator usersDTOValidator)
         {
             _userDomain = userDomain;
             _mapper = mapper;
+            _usersDTOValidator = usersDTOValidator;
         }
 
         public Response<UserDTO> Authenticate(string username, string password)
         {
             var response = new Response<UserDTO>();
-            if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
+            var validation = _usersDTOValidator.Validate(new UserDTO { UserName= username, Password = password });
+
+            if (!validation.IsValid)
             {
                 response.Message = "Parametros no pueden ser vacios";
+                response.Errors = validation.Errors;
                 return response;
             }
             try
